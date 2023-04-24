@@ -2,10 +2,10 @@
 
 Transformando linhas de código em soluções inovadoras: programador e desenvolvedor apaixonado pela tecnologia.
 
-\/ 🔭 Curso Técnico de informática (3/4).
-\/ 🌱 Estudando HTML e CSS.
-\/ 🌅 Aluno do professor Guanabara.
-\/ ♍ 17 anos.
+\/ 🔭 Curso Técnico de informática (3/4).<br>
+\/ 🌱 Estudando HTML e CSS.<br>
+\/ 🌅 Aluno do professor Guanabara.<br>
+\/ ♍ 17 anos.<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
