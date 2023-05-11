@@ -2,9 +2,9 @@
 
 Transformando linhas de código em soluções inovadoras: programador e desenvolvedor apaixonado pela tecnologia.
 
-\/ 🔭 Curso Técnico de informática (3/4).<br>
-\/ 🌱 Estudando HTML e CSS.<br>
-\/ 🌅 Aluno do professor Guanabara.<br>
+\/ 💻 Curso Técnico de informática (3/4).<br>
+\/ 📘 Estudando HTML e CSS.<br>
+\/ 👨‍🏫 Aluno do professor Guanabara.<br>
 \/ ♍ 17 anos.<br>
 \/ 💜 Namorado da Kamilli. 
 
