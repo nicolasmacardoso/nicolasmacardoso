@@ -3,8 +3,8 @@
 Transformando linhas de código em soluções inovadoras: programador e desenvolvedor apaixonado pela tecnologia.
 
 \/ 💻 Curso Técnico de informática (3/4).<br>
-\/ 📘 Estudando FRONT-END.<br>
-\/ 👨‍🏫 Aluno do professor Guanabara.<br>
+\/ 📘 Estudando FRONT-END e Java.<br>
+\/ 👨‍🏫 Aluno dos professores Guanabara e Nélio Alves.<br>
 \/ ♍ 17 anos.<br>
 \/ 💜 Namorado da Kamilli. 
 
