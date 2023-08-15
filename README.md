@@ -2,7 +2,7 @@
 
 Transformando linhas de código em soluções inovadoras: programador e desenvolvedor apaixonado pela tecnologia.
 
-\/ 💻 Curso Técnico de informática (3/4).<br>
+\/ 💻 Curso Técnico de informática (4/4).<br>
 \/ 📘 Estudando Java.<br>
 \/ 👨‍🏫 Aluno dos professores Guanabara e Nélio Alves.<br>
 \/ ♍ 17 anos.<br>
