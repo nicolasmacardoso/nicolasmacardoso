@@ -6,7 +6,6 @@ Transformando linhas de código em soluções inovadoras: programador e desenvol
 \/ 📘 Estudando Java.<br>
 \/ 👨‍🏫 Aluno dos professores Guanabara e Nélio Alves.<br>
 \/ ♍ 17 anos.<br>
-\/ 💜 Namorado da Kamilli. 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
