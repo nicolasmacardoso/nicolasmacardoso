@@ -7,8 +7,6 @@ Transformando linhas de código em soluções inovadoras: programador e desenvol
 \/ 👨‍🏫 Aluno dos professores Guanabara e Nélio Alves.<br>
 \/ ♍ 17 anos.<br>
 
-<img src="https://img.freepik.com/fotos-premium/fundo-de-papel-de-parede-hd-8k-de-computador-para-jogos-banco-de-imagem-fotografica_915071-21683.jpg">
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,6 +19,7 @@ Transformando linhas de código em soluções inovadoras: programador e desenvol
 </div>
 <br>
 
+<img src="[https://img.freepik.com/fotos-premium/fundo-de-papel-de-parede-hd-8k-de-computador-para-jogos-banco-de-imagem-fotografica_915071-21683.jpg](https://ccbc.org.br/wp-content/uploads/2019/09/comiss%C3%A3o-de-tecnologia-ccbc-planos.jpg)">
 
 <p><h1>Status: </h1>
 <div align="center">
