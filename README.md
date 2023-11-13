@@ -19,7 +19,9 @@ Transformando linhas de código em soluções inovadoras: programador e desenvol
 </div>
 <br>
 
-<img src="https://ccbc.org.br/wp-content/uploads/2019/09/comiss%C3%A3o-de-tecnologia-ccbc-planos.jpg">
+<div Style="border-color: red;">
+  <img src="https://ccbc.org.br/wp-content/uploads/2019/09/comiss%C3%A3o-de-tecnologia-ccbc-planos.jpg">
+</div>
 
 <p><h1>Status: </h1>
 <div align="center">
