@@ -19,7 +19,7 @@ Transformando linhas de código em soluções inovadoras: programador e desenvol
 </div>
 <br>
 
-<img src="https://img.freepik.com/fotos-premium/fundo-de-papel-de-parede-hd-8k-de-computador-para-jogos-banco-de-imagem-fotografica_915071-21683.jpg">
+<img src="https://ccbc.org.br/wp-content/uploads/2019/09/comiss%C3%A3o-de-tecnologia-ccbc-planos.jpg">
 
 <p><h1>Status: </h1>
 <div align="center">
