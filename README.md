@@ -5,7 +5,7 @@ Transformando linhas de código em soluções inovadoras: programador e desenvol
 \/ 💻 Curso Técnico de informática (4/4).<br>
 \/ 📘 Estudando Java.<br>
 \/ 👨‍🏫 Aluno dos professores Guanabara e Nélio Alves.<br>
-\/ ♍ 17 anos.<br>
+\/ ♍ 18 anos.<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
@@ -24,7 +24,7 @@ Transformando linhas de código em soluções inovadoras: programador e desenvol
 <p><h1>Status: </h1>
 <div align="center">
   <a href="https://github.com/nicolasmacardoso">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nicolasmacardoso&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nicolasmacardoso&theme=tokyonight&show_icons=true" />
     
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasmacardoso&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
@@ -32,6 +32,7 @@ Transformando linhas de código em soluções inovadoras: programador e desenvol
 
 <p><h1>Social: </h1></p>
 <div align="center">
+    <a href="https://www.linkedin.com/in/nicolasmacardoso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/yoriyoi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:nicolasmacardoso@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
