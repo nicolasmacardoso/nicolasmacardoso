@@ -3,8 +3,8 @@
 Transformando linhas de código em soluções inovadoras: programador e desenvolvedor apaixonado pela tecnologia.
 
 \/ 💻 Curso Técnico de informática (4/4).<br>
-\/ 📘 Estudando Java.<br>
-\/ 👨‍🏫 Aluno dos professores Guanabara e Nélio Alves.<br>
+\/ 📘 Estudando ReactJS.<br>
+\/ 👨‍🏫 Aluno dos professores Guanabara, Nélio Alves e Matheus Fraga.<br>
 \/ ♍ 18 anos.<br>
 
 <div style="display: inline_block"><br>
