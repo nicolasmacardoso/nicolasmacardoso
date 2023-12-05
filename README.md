@@ -29,7 +29,7 @@ Transformando linhas de código em soluções inovadoras: programador e desenvol
   </a>
   
   <a href="https://github.com/nicolasmacardoso">
-    <img height="235em" width="444px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasmacardoso&layout=compact&langs_count=6&theme=tokyonight"/>
+    <img height="235em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasmacardoso&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
 </div>
 <br>
