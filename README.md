@@ -18,15 +18,19 @@ Transformando linhas de código em soluções inovadoras: programador e desenvol
   <img align="center" alt="Nicolas-MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
 <br>
+<div>
+  <img src="https://github.com/nicolasmacardoso/nicolasmacardoso/assets/106183309/95ebf2e9-6b19-4055-bbe0-6145b08def6f" alt="Capa de portifólio Nícolas">
+</div>
+<br>
 
-<img src="https://ccbc.org.br/wp-content/uploads/2019/09/comiss%C3%A3o-de-tecnologia-ccbc-planos.jpg" alt="Imagem com borda roxa escura">
-
-<p><h1>Status: </h1>
 <div align="center">
   <a href="https://github.com/nicolasmacardoso">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nicolasmacardoso&theme=tokyonight&show_icons=true" />
-    
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasmacardoso&layout=compact&langs_count=6&theme=tokyonight"/>
+    <img height="235em" src="https://github-readme-stats.vercel.app/api?username=nicolasmacardoso&theme=tokyonight&show_icons=true" />
+  </a>
+  
+  <a href="https://github.com/nicolasmacardoso">
+    <img height="235em" width="444px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasmacardoso&layout=compact&langs_count=6&theme=tokyonight"/>
+  </a>
 </div>
 <br>
 
