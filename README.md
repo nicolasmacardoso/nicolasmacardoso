@@ -2,6 +2,8 @@
 
 Transformando linhas de código em soluções inovadoras: programador e desenvolvedor apaixonado pela tecnologia.
 
+\/ 🛠 Estágio na função de desenvolvimento.<br>
+\/ 👨‍💻 Graduação Engenharia de Software (1/4).<br>
 \/ 💻 Curso Técnico de informática (4/4).<br>
 \/ 📘 Estudando ReactJS, Progress e Java.<br>
 \/ ♍ 18 anos.<br>
