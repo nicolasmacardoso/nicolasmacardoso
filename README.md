@@ -2,11 +2,11 @@
 
 Transformando linhas de código em soluções inovadoras: programador e desenvolvedor apaixonado pela tecnologia.
 
-\/ 🛠 Estágio na função de desenvolvimento.<br>
-\/ 👨‍💻 Graduação Engenharia de Software (1/4).<br>
+\/ 🛠 Desenvolvedor full-stack.<br>
+\/ 👨‍💻 Graduação Engenharia de Software (2/4).<br>
 \/ 💻 Curso Técnico de informática (4/4).<br>
-\/ 📘 Estudando ReactJS, Progress e Java.<br>
-\/ ♍ 18 anos.<br>
+\/ 📘 Trabalhando com Angular, Progress e Java.<br>
+\/ ♍ 19 anos.<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Nicolas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
