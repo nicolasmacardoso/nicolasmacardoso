@@ -3,7 +3,7 @@
 Transformando linhas de código em soluções inovadoras: programador e desenvolvedor apaixonado pela tecnologia.
 
 \/ 🛠 Desenvolvedor full-stack.<br>
-\/ 👨‍💻 Graduação Engenharia de Software (2/4).<br>
+\/ 👨‍💻 Graduação Engenharia de Software (3/8).<br>
 \/ 💻 Curso Técnico de informática (4/4).<br>
 \/ 📘 Trabalhando com Angular, JavaScript, Progress e Java.<br>
 \/ ♍ 19 anos.<br>
