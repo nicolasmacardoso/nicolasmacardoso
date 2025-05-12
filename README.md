@@ -6,6 +6,7 @@ Transformando linhas de código em soluções inovadoras: programador e desenvol
 \/ 👨‍💻 Graduação Engenharia de Software (3/8).<br>
 \/ 💻 Curso Técnico de informática (4/4).<br>
 \/ 📘 Trabalhando com Angular, JavaScript, Progress, HTML e CSS.<br>
+\/ 📚 Estudando TypeScript e aprimorando conhecimentos em JavaScript<br>
 \/ ♍ 19 anos.<br>
 
 <div style="display: inline_block"><br>
