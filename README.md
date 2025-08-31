@@ -7,7 +7,7 @@ Transformando linhas de código em soluções inovadoras: programador e desenvol
 \/ 💻 Curso Técnico de informática (4/4).<br>
 \/ 📘 Trabalhando com Angular, JavaScript, Progress, HTML e CSS.<br>
 \/ 📚 Estudando TypeScript e aprimorando conhecimentos em JavaScript<br>
-\/ ♍ 19 anos.<br>
+\/ ♍ 20 anos.<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
