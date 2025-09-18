@@ -5,7 +5,7 @@ Transformando linhas de código em soluções inovadoras: programador e desenvol
 \/ 🛠 Desenvolvedor full-stack.<br>
 \/ 👨‍💻 Graduação Engenharia de Software (4/8).<br>
 \/ 💻 Curso Técnico de informática (4/4).<br>
-\/ 📘 Trabalhando com Angular, JavaScript, Progress, HTML e CSS.<br>
+\/ 📘 Trabalhando com AngularJS, JavaScript, Progress, HTML e CSS.<br>
 \/ 📚 Estudando TypeScript e aprimorando conhecimentos em JavaScript<br>
 \/ ♍ 20 anos.<br>
 
