@@ -6,20 +6,9 @@ Transformando linhas de código em soluções inovadoras: programador e desenvol
 \/ 👨‍💻 Graduação Engenharia de Software (5/8).<br>
 \/ 💻 Curso Técnico de informática (4/4).<br>
 \/ 📘 Trabalhando com AngularJS, JavaScript, Progress, HTML e CSS.<br>
-\/ 📚 Estudando TypeScript e aprimorando conhecimentos em JavaScript<br>
+\/ 📚 Estudando TypeScript, React e aprimorando conhecimentos em JavaScript<br>
 \/ ♍ 20 anos.<br>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="INO" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg">
-  <img align="center" alt="MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-</div>
-<br>
 <div>
   <img src="https://github.com/nicolasmacardoso/nicolasmacardoso/assets/106183309/95ebf2e9-6b19-4055-bbe0-6145b08def6f" alt="Capa de portifólio Nícolas">
 </div>
