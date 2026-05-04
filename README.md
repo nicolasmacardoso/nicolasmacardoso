@@ -10,19 +10,9 @@ Transformando linhas de código em soluções inovadoras: programador e desenvol
 \/ ♍ 20 anos.<br>
 
 <div>
-  <img src="https://github.com/nicolasmacardoso/nicolasmacardoso/assets/106183309/95ebf2e9-6b19-4055-bbe0-6145b08def6f" alt="Capa de portifólio Nícolas">
+  <img width="1400" height="350" alt="1756675725677" src="https://github.com/user-attachments/assets/ee265cd1-dc43-4e3e-9943-d1c45bb3a828" alt="Capa de portifólio Nícolas"/>
 </div>
 <br>
-
-<div align="center">
-  <a href="https://github.com/nicolasmacardoso">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolasmacardoso&theme=tokyonight&show_icons=true" />
-  </a>
-  
-  <a href="https://github.com/nicolasmacardoso">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasmacardoso&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
-</div>
 <br>
 
 <p><h1>Social: </h1></p>
