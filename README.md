@@ -101,24 +101,37 @@ Essa evolução aparece principalmente em três frentes:
   </tr>
   <tr>
     <td width="50%">
+      <h3>SVNFlow</h3>
+      <p>
+        Aplicativo desktop local em desenvolvimento que apoia fluxos em que Git organiza alterações
+        de desenvolvimento e SVN permanece como destino oficial de publicação.
+      </p>
+      <p>
+        <strong>Foco:</strong> TypeScript, produto, fluxo de trabalho, validação, segurança operacional e documentação técnica.
+      </p>
+      <a href="https://github.com/ya-labs/SVNFlow">Acessar repositório</a>
+    </td>
+    <td width="50%">
       <h3>Yahub</h3>
       <p>
-        Projeto em desenvolvimento para consolidar estudos e práticas modernas em uma aplicação mais completa,
+        Portal da organização YA-LABS em fase de idealização para consolidar estudos e práticas modernas em uma aplicação mais completa,
         com foco em front-end bem estruturado.
       </p>
       <p>
         <strong>Foco previsto:</strong> React, TypeScript, arquitetura front-end e experiência de usuário.
       </p>
     </td>
-    <td width="50%">
-      <h3>Próximos passos</h3>
-      <p>
-        Continuar aprofundando fundamentos de front-end, melhorar organização de projetos, evoluir em React/TypeScript
-        e aplicar esses estudos em projetos com contexto mais próximo do mercado, fortalecendo também gestão, liderança e coordenação técnica.
-      </p>
-    </td>
   </tr>
 </table>
+
+---
+
+## GitHub
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nicolasmacardoso&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasmacardoso&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+</div>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:22C55E,50:2563EB,100:0F172A" alt="Rodapé do perfil" />
